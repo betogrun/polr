@@ -16,3 +16,9 @@ Also consists of a docker-compose to get polr running locally in a single step: 
 2. Pass environment variables to the docker container while starting it (This doesn't seem to be working currently. https://blog.doismellburning.co.uk/environment-variables-in-nginx-config/)
 
 For more detailed docs, refer to the original fork: https://github.com/cydrobolt/polr
+
+### Addendum
+This repository is based on good work done https://github.com/sahil87/polr to dockerize the polr project (https://github.com/cydrobolt/polr). 
+
+Update 4/18:
+I have pulled the latest fixes from the home polr repository https://github.com/cydrobolt/polr and have merged it here.
